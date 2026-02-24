@@ -1,0 +1,14 @@
+venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.vscode/settings.json
+*.code-workspace
+.DS_Store
+Thumbs.db
+config.ini
+secrets.yaml
